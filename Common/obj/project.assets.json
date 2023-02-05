@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GEEKBRAINS_ALI\\C#\\Common\\Common.csproj",
+      "projectUniqueName": "D:\\GEEKBRAINS_ALI\\C-Lessons\\Common\\Common.csproj",
       "projectName": "Common",
-      "projectPath": "D:\\GEEKBRAINS_ALI\\C#\\Common\\Common.csproj",
+      "projectPath": "D:\\GEEKBRAINS_ALI\\C-Lessons\\Common\\Common.csproj",
       "packagesPath": "C:\\Users\\Muxammadali\\.nuget\\packages\\",
-      "outputPath": "D:\\GEEKBRAINS_ALI\\C#\\Common\\obj\\",
+      "outputPath": "D:\\GEEKBRAINS_ALI\\C-Lessons\\Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Muxammadali\\AppData\\Roaming\\NuGet\\NuGet.Config"
