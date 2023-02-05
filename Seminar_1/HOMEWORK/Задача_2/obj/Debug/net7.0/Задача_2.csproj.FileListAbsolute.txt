@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\Задача_2.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\Задача_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\Задача_2.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\Задача_2.AssemblyInfo.cs
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\Задача_2.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\bin\Debug\net7.0\Задача_2.exe
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\bin\Debug\net7.0\Задача_2.deps.json
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\bin\Debug\net7.0\Задача_2.runtimeconfig.json
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\bin\Debug\net7.0\Задача_2.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\bin\Debug\net7.0\Задача_2.pdb
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\Задача_2.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\refint\Задача_2.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\Задача_2.pdb
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\Задача_2.genruntimeconfig.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_1\HOMEWORK\Задача_2\obj\Debug\net7.0\ref\Задача_2.dll

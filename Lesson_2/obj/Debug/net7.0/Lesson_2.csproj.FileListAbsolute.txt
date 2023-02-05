@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_ALI\C#\Lesson_2\bin\Debug\net7.0\Lesson_2.exe
+D:\GEEKBRAINS_ALI\C#\Lesson_2\bin\Debug\net7.0\Lesson_2.deps.json
+D:\GEEKBRAINS_ALI\C#\Lesson_2\bin\Debug\net7.0\Lesson_2.runtimeconfig.json
+D:\GEEKBRAINS_ALI\C#\Lesson_2\bin\Debug\net7.0\Lesson_2.dll
+D:\GEEKBRAINS_ALI\C#\Lesson_2\bin\Debug\net7.0\Lesson_2.pdb
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\Lesson_2.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\Lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\Lesson_2.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\Lesson_2.AssemblyInfo.cs
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\Lesson_2.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\Lesson_2.dll
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\refint\Lesson_2.dll
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\Lesson_2.pdb
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\Lesson_2.genruntimeconfig.cache
+D:\GEEKBRAINS_ALI\C#\Lesson_2\obj\Debug\net7.0\ref\Lesson_2.dll

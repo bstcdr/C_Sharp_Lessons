@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\bin\Debug\net7.0\Task_27.exe
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\bin\Debug\net7.0\Task_27.deps.json
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\bin\Debug\net7.0\Task_27.runtimeconfig.json
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\bin\Debug\net7.0\Task_27.dll
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\bin\Debug\net7.0\Task_27.pdb
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\Task_27.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\Task_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\Task_27.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\Task_27.AssemblyInfo.cs
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\Task_27.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\Task_27.dll
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\refint\Task_27.dll
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\Task_27.pdb
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\Task_27.genruntimeconfig.cache
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Homework\Task_27\obj\Debug\net7.0\ref\Task_27.dll

@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\Task_19.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\Task_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\Task_19.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\Task_19.AssemblyInfo.cs
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\Task_19.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\bin\Debug\net7.0\Task_19.exe
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\bin\Debug\net7.0\Task_19.deps.json
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\bin\Debug\net7.0\Task_19.runtimeconfig.json
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\bin\Debug\net7.0\Task_19.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\bin\Debug\net7.0\Task_19.pdb
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\Task_19.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\refint\Task_19.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\Task_19.pdb
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\Task_19.genruntimeconfig.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_3\Homework\Task_19\obj\Debug\net7.0\ref\Task_19.dll

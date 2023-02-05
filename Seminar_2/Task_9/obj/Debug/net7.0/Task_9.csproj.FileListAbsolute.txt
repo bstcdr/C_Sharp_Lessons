@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\bin\Debug\net7.0\Task_9.exe
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\bin\Debug\net7.0\Task_9.deps.json
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\bin\Debug\net7.0\Task_9.runtimeconfig.json
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\bin\Debug\net7.0\Task_9.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\bin\Debug\net7.0\Task_9.pdb
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\Task_9.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\Task_9.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\Task_9.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\Task_9.AssemblyInfo.cs
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\Task_9.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\Task_9.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\refint\Task_9.dll
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\Task_9.pdb
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\Task_9.genruntimeconfig.cache
+D:\GEEKBRAINS_ALI\C#\Seminar_2\Task_9\obj\Debug\net7.0\ref\Task_9.dll

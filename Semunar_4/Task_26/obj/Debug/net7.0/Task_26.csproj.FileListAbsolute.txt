@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\bin\Debug\net7.0\Task_26.exe
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\bin\Debug\net7.0\Task_26.deps.json
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\bin\Debug\net7.0\Task_26.runtimeconfig.json
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\bin\Debug\net7.0\Task_26.dll
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\bin\Debug\net7.0\Task_26.pdb
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\Task_26.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\Task_26.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\Task_26.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\Task_26.AssemblyInfo.cs
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\Task_26.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\Task_26.dll
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\refint\Task_26.dll
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\Task_26.pdb
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\Task_26.genruntimeconfig.cache
+D:\GEEKBRAINS_ALI\C#\Semunar_4\Task_26\obj\Debug\net7.0\ref\Task_26.dll
