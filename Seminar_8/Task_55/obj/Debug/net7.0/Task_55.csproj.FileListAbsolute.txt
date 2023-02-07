@@ -1,0 +1,15 @@
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\bin\Debug\net7.0\Task_55.exe
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\bin\Debug\net7.0\Task_55.deps.json
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\bin\Debug\net7.0\Task_55.runtimeconfig.json
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\bin\Debug\net7.0\Task_55.dll
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\bin\Debug\net7.0\Task_55.pdb
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\Task_55.csproj.AssemblyReference.cache
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\Task_55.GeneratedMSBuildEditorConfig.editorconfig
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\Task_55.AssemblyInfoInputs.cache
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\Task_55.AssemblyInfo.cs
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\Task_55.csproj.CoreCompileInputs.cache
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\Task_55.dll
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\refint\Task_55.dll
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\Task_55.pdb
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\Task_55.genruntimeconfig.cache
+D:\GEEKBRAINS_ALI\C-Lessons\Seminar_8\Task_55\obj\Debug\net7.0\ref\Task_55.dll
