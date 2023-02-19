@@ -43,7 +43,7 @@
 
 public class ArrayCommon
 {
-    public static void PrintArray(double[] array)
+    public static void PrintArray(int[] array)
     {
         Console.Write("[");
         for (int i = 0; i < array.Length - 1; i++)
